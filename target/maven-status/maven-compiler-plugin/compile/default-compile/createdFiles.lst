@@ -1,0 +1,13 @@
+Model\Venda.class
+DAO\ProdutoDAO.class
+DAO\UsuarioDAO.class
+Model\Usuario.class
+Model\Cliente.class
+Model\Produto.class
+Conexão\ConnectionFactory.class
+DAO\VendaDAO.class
+Model\ItemVenda.class
+DAO\ItemVendaDAO.class
+Model\ResumoVenda.class
+DAO\ResumoVendaDAO.class
+DAO\ClienteDAO.class
